@@ -1,0 +1,15 @@
+.env
+.env.*
+*.log
+
+config/*
+cache/*
+
+**/config/*
+**/cache/*
+
+*.db
+*.sqlite
+*.sqlite3
+
+tailscale-authkey.txt
